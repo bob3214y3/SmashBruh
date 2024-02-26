@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 1. SmashBruh Movie Renting Website - Documentation
 
 ### 1.1. Team member
@@ -864,7 +863,6 @@ In conclusion, our project aims to assist people in renting movies/shows and kee
 - OAuth2: https://oauth.net/2/
 
 <p style="text-align: right;">©️ Vinh Nguyen Ngoc</p>
-=======
 1. SmashBruh Movie Renting Website - Documentation
 1.1. Team member
 Full Name	Student Id	Tasks	
@@ -1517,4 +1515,3 @@ MongoDB: https://www.mongodb.com/
 MUI Library: https://mui.com/material-ui/getting-started/overview/
 OAuth2: https://oauth.net/2/
 ©️ Vinh Nguyen Ngoc
->>>>>>> 4c7b7bfc6a34dc60485d451743b730b453b8f6b5

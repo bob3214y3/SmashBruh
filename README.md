@@ -1,63 +1,12 @@
 ## 1. SmashBruh Movie Renting Website - Documentation
 
-### 1.1. Team member
-
-| Full Name            | Student Id | Tasks                                                                                                                                                                                                                |     |
-| -------------------- | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Nguyễn Ngọc Vĩnh     |   18691    | Movie and TV Shows details, trailers, and recommendations backend API; Movie Search and Filtering API; UI/UX of Homepage and MoviePage; Responsible for Markdown and Swagger Documentation, Analytics and Reporting. |     |
-| Hà Quách Phú Thành   |   18840    | Moderate and in charge of frontend and backend; Manage members work and meetings; configure CI/CD, pipeline and Docker development;                                                                                  |
-| Thái Quang Nam       |   18770    | Design UI for Navbar, HomePage, FeatureMoviePage, TVShowsPage, MyListPage, SearchPage; Markdown Documentation, Reporting                                                                                             |
-| Phạm Hoàng Việt      |   18334    | Design MoviePages and ShowPages ; Markdown Documentation, Reporting User Interface                                                                                                                                   |
-| Nguyễn Xuân Khang    |   18973    | Set up Frontend and Backend ProfilePage; Markdown Documentation                                                                                                                                                      |
-| Nguyễn Khắc Hoàng    |   18230    | Overall UI, ProfilePage, Login/RegisterPage, AccountPage; Markdown Documentation, Reporting                                                                                                                          |
-| Lê Duy               |   17434    | Set up Email Verification, Security; Markdown Documentation; Reporting                                                                                                                                               |
-| Trần Ngọc Duy Chương |   17197    | Backend for OAuth2, Authentication; Markdown Documentation; Reporting                                                                                                                                                |
-
-### 1.2. About our project
+                                                                                                                                              |
 
 Introducing our advanced movie rental application, providing an exceptional cinematic experience. With a user-friendly interface, diverse movie collection, and personalized rental queues, our app offers navigation and immersive film exploration. Discover captivating narratives, acclaimed works, and a wide range of genres on your screen.
 
 With our media rental web application, you can now keep track of rented movies and TV show, as well as keeping track of your favourites and rate them accordingly, provided to you with one of the largest movie database - The Movie Database (TMDB) - a free and open movie database for developers, which also acts as our main API for working with movies/shows.
 
-### 1.3. Table of content
 
-- [1. SmashBruh Movie Renting Website - Documentation](#1-smashbruh-movie-renting-website---documentation)
-  - [1.1. Team member](#11-team-member)
-  - [1.2. About our project](#12-about-our-project)
-  - [1.3. Table of content](#13-table-of-content)
-- [2. Introduction](#2-introduction)
-  - [2.1. Project Overview](#21-project-overview)
-  - [2.2. Objective](#22-objective)
-- [3. System Analysis](#3-system-analysis)
-  - [3.1. Business Requirements](#31-business-requirements)
-  - [3.2. User Requirements](#32-user-requirements)
-  - [3.3. Functional Requirements](#33-functional-requirements)
-  - [3.4. Non-Functional Requirements](#34-non-functional-requirements)
-- [4. System Design](#4-system-design)
-  - [4.1. System Diagrams](#41-system-diagrams)
-  - [4.2. System Architecture](#42-system-architecture)
-    - [4.2.1. MVC Models for Web Development](#421-mvc-models-for-web-development)
-  - [4.3. Components Design](#43-components-design)
-    - [4.3.1. Users Interface:](#431-users-interface)
-    - [4.3.2. Authentication Interface:](#432-authentication-interface)
-  - [4.4. Structure and Relationships](#44-structure-and-relationships)
-  - [4.5. Data Model:](#45-data-model)
-  - [4.6. GUI](#46-gui)
-  - [4.7. Functionality Design](#47-functionality-design)
-- [5. Implementation](#5-implementation)
-  - [5.1. File Structure](#51-file-structure)
-  - [5.2. Development Environment and Technology Stack](#52-development-environment-and-technology-stack)
-  - [5.3. CI/CD Testing, Docker and Deployment](#53-cicd-testing-docker-and-deployment)
-  - [5.5. API Utilization](#55-api-utilization)
-    - [5.5.1. Movies](#551-movies)
-    - [5.5.2. TV Shows](#552-tv-shows)
-    - [5.5.3. Discovery](#553-discovery)
-- [6. User Guide](#6-user-guide)
-  - [6.1. Getting Started](#61-getting-started)
-- [7. Conclusion](#7-conclusion)
-  - [7.1. Summary of Project](#71-summary-of-project)
-  - [7.2. Future Work](#72-future-work)
-  - [7.3. References](#73-references)
 
 ## 2. Introduction
 
